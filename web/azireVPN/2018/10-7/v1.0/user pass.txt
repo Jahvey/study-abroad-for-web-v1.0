@@ -1,0 +1,25 @@
+https://080.host/
+
+1.ssh客户端登陆：
+
+外网ip:hkcn2.080.host
+内网ip:10.0.1.20
+端口:61020
+
+登陆密码:wangsha851226S
+
+ssr://NDMuMjU1LjE5MS4yNTI6MTAyMDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOmh0dHBfc2ltcGxlOmR6ZzRNelV6TlRV
+
+http://doub.pw/qr/qr.php?text=ssr://NDMuMjU1LjE5MS4yNTI6MTAyMDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOmh0dHBfc2ltcGxlOmR6ZzRNelV6TlRV
+
+
+2. https://www.onevps.com/  4美金一个月 弄有关v2ray的节点
+185.200.118.190
+端口
+22122
+用户名
+root
+密码：
+b2F657a4ZTEd0wMXun
+
+

@@ -1,0 +1,94 @@
+---------- V2Ray 配置信息 -------------
+
+ 地址 (Address) = 185.200.118.190
+
+ 端口 (Port) = 23158
+
+ 用户ID (User ID / UUID) = 512509d1-9ce4-4abf-8334-0eb4eae3a3c6
+
+ 额外ID (Alter Id) = 233
+
+ 传输协议 (Network) = tcp
+
+ 伪装类型 (header type) = none
+
+---------- END -------------
+
+V2Ray 客户端使用教程: https://v2ray666.com/post/4/
+
+[root@ONEVPS181006094905 ~]# 
+
+
+
+请选择 [1-4]:4
+
+ 正在生成链接.... 稍等片刻即可....
+
+
+---------- V2Ray 二维码链接 -------------
+
+ 适用于 V2RayNG v0.4.1+ / Kitsunebi = https://transfer.sh/s6t5s/MTc2MjktMTQ1ODYtMjA5ODgK_v2ray666_v2ray.png
+
+
+ 友情提醒: 请务必核对扫码结果 (V2RayNG 除外) 
+
+
+ V2Ray 客户端使用教程: https://v2ray666.com/post/4/
+
+备注...链接将在 14 天后失效
+
+提醒...请不要把链接分享出去...除非你有特别的理由....
+
+[root@ONEVPS181006094905 ~]# 
+
+
+[root@ONEVPS181006094905 ~]# v2ray url
+
+---------- V2Ray vmess URL / V2RayNG v0.4.1+ / V2RayN v2.1+ / 仅适合部分客户端 -------------
+
+vmess://ewoidiI6ICIyIiwKInBzIjogInYycmF5NjY2LmNvbV8xODUuMjAwLjExOC4xOTAiLAoiYWRkIjogIjE4NS4yMDAuMTE4LjE5MCIsCiJwb3J0IjogIjIzMTU4IiwKImlkIjogIjUxMjUwOWQxLTljZTQtNGFiZi04MzM0LTBlYjRlYWUzYTNjNiIsCiJhaWQiOiAiMjMzIiwKIm5ldCI6ICJ0Y3AiLAoidHlwZSI6ICJub25lIiwKImhvc3QiOiAiIiwKInBhdGgiOiAiIiwKInRscyI6ICIiCn0K
+
+[root@ONEVPS181006094905 ~]# 
+
+
+=========================
+
+请选择菜单 [1-9]:4
+
+ 1. 查看 Shadowsocks 配置信息
+
+ 2. 生成二维码链接
+
+请选择 [1-2]:2
+
+ 正在生成链接.... 稍等片刻即可....
+
+
+---------- Shadowsocks 二维码链接 -------------
+
+ 链接 = https://transfer.sh/11VtTs/OTczMS01NTQ5LTE0ODg5Cg==_v2ray666_shadowsocks.png
+
+ 温馨提示... Shadowsocks Win 4.0.6 客户端可能无法识别该二维码
+
+备注...链接将在 14 天后失效
+
+提醒...请不要把链接分享出去...除非你有特别的理由....
+===========================
+
+
+---------- Shadowsocks 配置信息 -------------
+
+ 服务器地址 = 185.200.118.190
+
+ 服务器端口 = 52093
+
+ 密码 = 发布哥
+
+ 加密协议 = aes-256-cfb
+
+ SS 链接 = ss://YWVzLTI1Ni1jZmI65Y+R5biD5ZOlQDE4NS4yMDAuMTE4LjE5MDo1MjA5Mw==#v2ray666.com_ss_185.200.118.190
+
+ 备注: Shadowsocks Win 4.0.6 客户端可能无法识别该 SS 链接
+
+[root@ONEVPS181006094905 ~]# v2ray 
+

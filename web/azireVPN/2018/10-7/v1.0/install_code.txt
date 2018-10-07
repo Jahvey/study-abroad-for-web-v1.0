@@ -1,0 +1,11 @@
+[root@ONEVPS181006094905 ~]# history
+    1  bash <(curl -s -L https://233blog.com/v2ray.sh)
+    2  wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+    3  uname -r
+    4  lsmod | grep bbr
+    5  v2ray
+    6  free -m
+    7  ls
+    8  history
+	
+	
