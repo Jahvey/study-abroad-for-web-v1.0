@@ -1,0 +1,75 @@
+1.俄罗斯的Ip地址www.justhost.com
+
+IP地址：194.147.35.245
+密码：V4BCNbOooHXVZwA2
+具体信息见截图
+用户名:root
+
+端口号:22  ssh
+
+
+
+===============================
+
+[root@v53628 ~]# history
+    1  bash <(curl -s -L https://233blog.com/v2ray.sh)
+    2  v2ray
+    3  wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+    4  lsmod | grep bbr
+    5  vi /etc/resolv.conf
+    6  wget -qO- https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash
+    7  v2ray
+    8  free -m
+    9  ifconfig
+   10  v2ray
+   11  history
+[root@v53628 ~]#
+
+
+===============================
+
+
+
+
+
+
+
+
+
+相关的配置信息
+
+
+---------- V2Ray 二维码链接 -------------
+
+ 适用于 V2RayNG v0.4.1+ / Kitsunebi = https://transfer.sh/MkZbw/MTAyMTAtODc4NC0yODQ0NAo=_v2ray666_v2ray.png
+
+
+ 友情提醒: 请务必核对扫码结果 (V2RayNG 除外) 
+
+
+ V2Ray 客户端使用教程: https://v2ray66.com/post/4/
+
+备注...链接将在 14 天后失效
+
+提醒...请不要把链接分享出去...除非你有特别的理由....
+
+[root@v53628 ~]# ifconfig
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 194.147.35.245  netmask 255.255.255.0  broadcast 194.147.35.255
+        inet6 fe80::3cd9:a8ff:fee6:2bec  prefixlen 64  scopeid 0x20<link>
+        ether 3e:d9:a8:e6:2b:ec  txqueuelen 1000  (Ethernet)
+        RX packets 1150362  bytes 1110842621 (1.0 GiB)
+        RX errors 0  dropped 2595  overruns 0  frame 0
+        TX packets 538319  bytes 965645409 (920.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 64  bytes 5536 (5.4 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 64  bytes 5536 (5.4 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+[root@v53628 ~]# 
